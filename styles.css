@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+body {
+  margin: 20px;
+  padding:20px;
+  background-color: white;
+}
+
+.outer-box {
+  margin: 15px;
+  border: 15px solid blue;
+  background-color: blue;
+  display: inline-block;
+}
+
+.box {
+  background-color: lightblue;
+  padding: 50px;
+  width: 300px;
+  color: black;
+  font-family: monospace;
+}
